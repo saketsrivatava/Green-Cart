@@ -103,7 +103,7 @@ https://greencart-three-beta.vercel.app/
 
 👨‍💻 Developed By
 
-Pearl Kayastha
+Saket srivastava
 
 📜 License
 
