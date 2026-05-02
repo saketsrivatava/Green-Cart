@@ -41,7 +41,7 @@ Media Management: Cloudinary
 
 Clone the repository:
 
-git clone [https://github.com/your-username/Green-Cart.git](https://github.com/pearlkayastha1512/greencart)
+git clone [https://github.com/your-username/Green-Cart.git](https://github.com/saketsrivatava/Green-Cart)
 cd Green-Cart
 
 
